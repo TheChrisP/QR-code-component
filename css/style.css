@@ -31,12 +31,13 @@ body {
 .card {
   width: 32rem;
   border-radius: 24px;
+  padding-bottom: 1.8rem;
   background-color: var(--white);
   box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.15);
 }
 
 .card-img {
-  padding: 1.6rem 1.6rem 0rem 1.6rem;
+  padding: 1.6rem 1.6rem 0rem;
 }
 
 .card-img img {
@@ -49,7 +50,7 @@ body {
   text-align: center;
   display: flex;
   flex-direction: column;
-  padding: 2.4rem 1.2rem 4.2rem 1.2rem;
+  padding: 2.4rem 1.2rem;
   gap: 2rem;
 }
 
