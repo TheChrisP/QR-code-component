@@ -32,6 +32,7 @@ body {
   width: 32rem;
   border-radius: 24px;
   background-color: var(--white);
+  box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.15);
 }
 
 .card-img {
